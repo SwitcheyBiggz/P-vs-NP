@@ -22,3 +22,9 @@ name = "UnifiedPvnp"
 
 [[lean_lib]]
 name = "Schaefer"
+
+[[lean_lib]]
+name = "WitnessCert"
+
+[[lean_lib]]
+name = "CrossReduce"

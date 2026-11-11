@@ -1,0 +1,1 @@
+The context window for this p-vs-np session was about 25 percent full (about 125K of 500K). Conversation tool output was the large cut, about 104K. `P_eq_NP` remains open: it is equivalent to SAT being in P, and it has not been proved.
