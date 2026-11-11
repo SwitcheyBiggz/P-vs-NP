@@ -1,0 +1,24 @@
+name = "UnifiedPvnp"
+version = "0.1.0"
+defaultTargets = ["UnifiedPvnp"]
+
+[leanOptions]
+relaxedAutoImplicit = false
+autoImplicit = false
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.35.0"
+
+[[lean_lib]]
+name = "PvnpReal"
+
+[[lean_lib]]
+name = "Benchmarks"
+
+[[lean_lib]]
+name = "UnifiedPvnp"
+
+[[lean_lib]]
+name = "Schaefer"
